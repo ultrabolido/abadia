@@ -1,0 +1,22 @@
+{
+  "resources": [
+    "music.ogg"
+  ],
+  "spritemap": {
+    "ambient": {
+      "start": 0,
+      "end": 23.90784580498866,
+      "loop": false
+    },
+    "begin": {
+      "start": 25,
+      "end": 87.27736961451248,
+      "loop": false
+    },
+    "end": {
+      "start": 89,
+      "end": 156.2,
+      "loop": false
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "resources": [
+    "sound.ogg"
+  ],
+  "spritemap": {
+    "bells": {
+      "start": 0,
+      "end": 8.759727891156462,
+      "loop": false
+    },
+    "close": {
+      "start": 10,
+      "end": 10.380226757369615,
+      "loop": false
+    },
+    "jingle": {
+      "start": 12,
+      "end": 12.841723356009071,
+      "loop": false
+    },
+    "knock": {
+      "start": 14,
+      "end": 15.343854875283446,
+      "loop": false
+    },
+    "leave": {
+      "start": 17,
+      "end": 17.336689342403627,
+      "loop": false
+    },
+    "letters": {
+      "start": 19,
+      "end": 31.81514739229025,
+      "loop": false
+    },
+    "mirror": {
+      "start": 33,
+      "end": 33.847528344671204,
+      "loop": false
+    },
+    "open": {
+      "start": 35,
+      "end": 35.580498866213155,
+      "loop": false
+    },
+    "pickup": {
+      "start": 37,
+      "end": 37.330884353741496,
+      "loop": false
+    },
+    "steps": {
+      "start": 39,
+      "end": 39.22639455782313,
+      "loop": false
+    }
+  }
+}
