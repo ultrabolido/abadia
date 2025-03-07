@@ -1,0 +1,174 @@
+{
+    "frames": {
+        "book": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "gloves": {
+            "frame": {
+                "x": 16,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 16,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "glasses": {
+            "frame": {
+                "x": 32,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 32,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "scroll": {
+            "frame": {
+                "x": 48,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 48,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "key1": {
+            "frame": {
+                "x": 64,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 64,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "key2": {
+            "frame": {
+                "x": 80,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 80,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "key3": {
+            "frame": {
+                "x": 96,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 96,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        },
+        "lamp": {
+            "frame": {
+                "x": 112,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 112,
+                "y": 0,
+                "w": 16,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 16,
+                "h": 12
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "objects.png",
+        "size": {
+            "w": 128,
+            "h": 12
+        },
+        "scale": 1
+    }
+}

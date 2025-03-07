@@ -1,0 +1,54 @@
+{
+    "frames": {
+        "door_0": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 24,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 40
+            }
+        },
+        "door_1": {
+            "frame": {
+                "x": 0,
+                "y": 40,
+                "w": 24,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 40,
+                "w": 24,
+                "h": 40
+            },
+            "sourceSize": {
+                "w": 24,
+                "h": 40
+            }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "doors.png",
+        "size": {
+            "w": 24,
+            "h": 80
+        },
+        "scale": 1
+    }
+}
